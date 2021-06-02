@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "isim": "Emre",
+    "dogumyili": "2003"
+  },
+  {
+    "id": 1,
+    "isim": "Ayşe",
+    "dogumyili": "1990"
+  },
+  {
+    "id": 2,
+    "isim": "Ali",
+    "dogumyili": "1987"
+  },
+  {
+    "id": 3,
+    "isim": "Veli",
+    "dogumyili": "2001"
+  },
+  {
+    "id": 4,
+    "isim": "Aylin",
+    "dogumyili": "1999"
+  },
+  {
+    "id": 5,
+    "isim": "Zeynep",
+    "dogumyili": "2000"
+  },
+  {
+    "id": 6,
+    "isim": "Mehmet",
+    "dogumyili": "1997"
+  },
+  {
+    "id": 7,
+    "isim": "Murat",
+    "dogumyili": "1996"
+  }
+]
